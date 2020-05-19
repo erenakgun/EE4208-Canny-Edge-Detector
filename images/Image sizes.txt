@@ -1,0 +1,8 @@
+If you want to view the images, you can use Photoshop to load each image.
+Specify the width, height, 8 bits (not 16 bits) and 5 bytes of header.
+
+Cana: 512 X 479
+Fruit: 487 X 414
+Img 335: 500 X 335
+Lamp: 256 X 256
+Leaf: 190 X 243
