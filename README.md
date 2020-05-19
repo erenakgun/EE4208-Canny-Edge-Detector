@@ -24,8 +24,11 @@ Utils file includes necessary functions for:
 -> non maximum supression
 and other functions used in above functions
 
-### Example 
+### Example
 input1: images\\cana.raw
 input2: 1.5
+
+
 ![Raw image](https://github.com/erenakgunnn/Ee4208-Canny-Edge-Detector/blob/master/Example/cana.jpg)
+
 ![Edges of the image](https://github.com/erenakgunnn/Ee4208-Canny-Edge-Detector/blob/master/Example/Result.jpg)
