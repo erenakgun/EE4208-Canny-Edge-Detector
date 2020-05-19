@@ -26,9 +26,10 @@ and other functions used in above functions
 
 ## Example
 input1: images\\cana.raw
+
 input2: 1.5
 
 <p align="center"><b>Raw Image</b></p>
 <p align="center"><img src="Example/cana.jpg" width="480"\></p>
 <p align="center"><b>Result Image</b></p>
-<p align="center"><img src="xample/Result.jpg" width="480"\></p>
+<p align="center"><img src="Example/Result.jpg" width="480"\></p>
