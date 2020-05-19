@@ -26,6 +26,7 @@ and other functions used in above functions
 
 ### Example
 input1: images\\cana.raw
+
 input2: 1.5
 
 
