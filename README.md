@@ -1,15 +1,18 @@
-#Program needs:
+# Canny Edge Detection
+This repository is created for a course project and not intended for public use. However, feel free to use it for any kind of applications if you find it useful.
+
+## Program needs:
 --> image (binary format) file location
 --> standart deviation value for the Gaussian filter.
 
-#Outputs:
+## Outputs:
 --> Result of the canny edge detection algorithm into 			Result.raw
 --> Result of edge detection without non-maximum supression into	sobelIntensity.raw
 --> Result of Sobel x filter into					sobelX.raw
 --> Result of Sobel y filter into					sobelY.raw
 --> Result of the Gaussian blurring into 				blurred.raw
 
-#Files and code architecture
+## Files and code architecture
 src file includes necessarry .cpp extension files. include file includes all headers.
 Matrix class is a container for 2D images.
 sobelFilter and GaussianFilter classes inherits Matrix class and implements special constructors.
@@ -21,6 +24,7 @@ Utils file includes necessary functions for:
 -> non maximum supression
 and other functions used in above functions
 
-### EXAMPLE INPUT
+### Example Input
 input1: images\\cana.raw
 input2: 1.5
+
